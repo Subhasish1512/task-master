@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/task-master/static/css/main.d55bdd40.css",
+    "main.js": "/task-master/static/js/main.ed964bbb.js",
+    "static/media/material-icons-two-tone.woff": "/task-master/static/media/material-icons-two-tone.8e41f5e6fbad90e70672.woff",
+    "static/media/material-icons-two-tone.woff2": "/task-master/static/media/material-icons-two-tone.c142818ceebfd170aa69.woff2",
+    "static/media/material-icons-round.woff": "/task-master/static/media/material-icons-round.8fce91b9f9c627c2c260.woff",
+    "static/media/material-icons-outlined.woff": "/task-master/static/media/material-icons-outlined.caaa30bfc2787b8a34d9.woff",
+    "static/media/material-icons-round.woff2": "/task-master/static/media/material-icons-round.b48566658cf6cdc085ef.woff2",
+    "static/media/material-icons.woff": "/task-master/static/media/material-icons.53abdaab74ac66470536.woff",
+    "static/media/material-icons-sharp.woff": "/task-master/static/media/material-icons-sharp.2da22890bca946c7a100.woff",
+    "static/media/material-icons-outlined.woff2": "/task-master/static/media/material-icons-outlined.73319595f421ef8247b1.woff2",
+    "static/media/material-icons-sharp.woff2": "/task-master/static/media/material-icons-sharp.0cf959b1473bddd82508.woff2",
+    "static/media/material-icons.woff2": "/task-master/static/media/material-icons.ff72a62dc27e9ea444b6.woff2",
+    "index.html": "/task-master/index.html",
+    "main.d55bdd40.css.map": "/task-master/static/css/main.d55bdd40.css.map",
+    "main.ed964bbb.js.map": "/task-master/static/js/main.ed964bbb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d55bdd40.css",
+    "static/js/main.ed964bbb.js"
+  ]
+}
